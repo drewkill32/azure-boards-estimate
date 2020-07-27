@@ -1,12 +1,6 @@
-# Update 3/18/2020: As stated below, I do not work on the Azure Boards team anymore, and as of now I don't have time to maintain this extension. 
+# This fork is in no way meant to be used publicly by other teams.
 
-# Azure Boards Estimate
-
-![](https://github.com/cschleiden/azure-boards-estimate/workflows/Build%20&%20Deploy/badge.svg)
-
-## Contributing
-
-**Update 9/18/19**: I don't work on the `Azure Boards` team anymore so I'll have less time to work on this extension. If you want to send a PR I'll gladly review and merge it.
+As of this writing, this fork is solely for experimenting with. Do not use.
 
 ### Developing and Testing
 
